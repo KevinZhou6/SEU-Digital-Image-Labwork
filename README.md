@@ -39,6 +39,7 @@ LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 #### 实验2 图像锐化
 - ✅ 基于二阶导数（拉普拉斯算子）图像增强
 - ✅ 非锐化掩蔽(Unsharp Masking)
+- ✅ 自适应滤波器
 
 <a href = "Lab2/"> Lab2
 
