@@ -75,16 +75,9 @@ LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 <a href = "Lab7/"> Lab7
 
 
-#### 实验8 聚类算法实现图像压缩
-- ✅ K-Means
-- ✅ DBSCAN
-- ✅ AGENS
+#### 实验8 医学图像处理
 
 <a href = "Lab8/"> Lab8
-
-#### 实验9 医学图像处理
-
-<a href = "Lab9/"> Lab9
 
 ### 实验报告
 
