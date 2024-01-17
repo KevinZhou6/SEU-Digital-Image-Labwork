@@ -10,7 +10,7 @@
 
 #### OpenCV-4.5.2 配置
 
-<a href = "MinGW+Opencv-4.5.2">配置详细步骤
+<a href = "Opencv-4.5.2">配置详细步骤
 
 QT 项目.pro文件添加Opencv 代码 
 ```py
