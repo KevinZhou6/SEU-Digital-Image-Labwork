@@ -1,9 +1,11 @@
 # SEU-Digital-Image-Labwork
-东南大学数字图像处理实验。Digital Image Process Labwork
 
-# Introduction
+东南大学计算机科学与技术数字图像处理实验 Digital Image Process Labwork
 
-## 平台框架
+
+## Introduction
+
+### 平台框架
 - `QT - 5.15`
 -  `OpenCV -4.5.2`
 -   `MinGW`
@@ -20,3 +22,13 @@ INCLUDEPATH += D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include
 LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 
 ```
+
+### 实验内容
+
+
+
+### 实验报告
+
+
+
+### 展示
