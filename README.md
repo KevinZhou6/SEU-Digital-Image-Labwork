@@ -85,4 +85,4 @@ LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 
 
 ### 展示
-<img src ="photo/bg.png">
+<img src ="photo/屏幕截图%202023-10-24%20140238.png">
