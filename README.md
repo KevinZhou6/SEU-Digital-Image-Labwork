@@ -12,7 +12,7 @@
 
 #### OpenCV-4.5.2 配置
 
-<a href = "Opencv-4.5.2">配置详细步骤
+<a href = "Opencv-4.5.2">OpenCV免配置
 
 QT 项目.pro文件添加Opencv 代码 
 ```py
@@ -25,6 +25,7 @@ LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 
 ### 实验内容
 
+##### 实验1 滤波器
 
 
 ### 实验报告
