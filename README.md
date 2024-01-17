@@ -8,7 +8,15 @@
 -  `OpenCV -4.5.2`
 -   `MinGW`
 
-#### OpenCV-4.5.2 安装
+#### OpenCV-4.5.2 配置
+
+<a href = "MinGW+Opencv-4.5.2">配置详细步骤
+
+QT 项目.pro文件添加Opencv 代码 
 ```py
+INCLUDEPATH += D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include
+               D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/include/opencv2
+
+LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 
 ```
