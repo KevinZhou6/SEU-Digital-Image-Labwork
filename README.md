@@ -91,4 +91,4 @@ LIBS +=  D:/QT/OpenCV-MinGW-Build-OpenCV-4.5.2-x64/x64/mingw/lib/lib*.a
 
 
 ### 展示
-<img src ="photo/">
+<img src ="photo/bg.png">
